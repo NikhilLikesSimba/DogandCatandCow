@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(180, 185, 38);
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+.header_div p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+
+}
+
+.header_div{
+    background-color: gold;
+    color: white;
+    text-shadow: black;
+}
+
+.main_div button{
+    background-color: gold;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    color: white;
+}
+
+.main_div h3{
+    font-size: 25px;
+}
+
+.copy_centre_footer{
+
+position: fixed;
+color: white;
+background-color: gold;
+bottom: 0;
+width: 100%;
+line-height: 2;
+text-align: center;
+ text-shadow: 5px 5px 5px bisque;
+ margin-top: 50px;
+}
